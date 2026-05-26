@@ -1,15 +1,36 @@
-<h1 align="center">Hi 👋, I'm Adarsh P</h1>
-<h3 align="center">React Frontend Developer | UI/UX Enthusiast | JavaScript Developer</h3>
+<div align="center">
+
+# Hi 👋, I'm Adarsh P
+
+### 🚀 React Frontend Developer | 🎨 UI/UX Enthusiast | 💻 JavaScript Developer
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Responsive+Web+Applications;React.js+%7C+Material+UI+%7C+Redux;Passionate+About+Clean+UI+Design;Frontend+Developer+from+India" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/adarsh-padikkal">
+    <img src="https://img.shields.io/github/followers/adarsh-padikkal?label=Followers&style=for-the-badge&color=0e75b6" />
+  </a>
+
+  <a href="https://github.com/adarsh-padikkal">
+    <img src="https://img.shields.io/github/stars/adarsh-padikkal?style=for-the-badge&color=yellow" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=adarsh-padikkal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **React.js, Material-UI, and Frontend Projects**
-- 🌱 I’m currently learning **Next.js, TypeScript, and Advanced React**
+- 🌱 I’m currently learning **TypeScript, and Advanced React**
 - 💼 Experienced in building **responsive and scalable web applications**
 - 💬 Ask me about **React.js, JavaScript, Material-UI, Formik, Yup**
-- 📫 Reach me at: **yourmail@gmail.com**
+- 📫 Reach me at: **adarshkayanna2001@gmail.com**
 - ⚡ Fun fact: I love building clean and user-friendly UIs
 
 ---
@@ -17,7 +38,7 @@
 ### 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,materialui,bootstrap,redux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,materialui,bootstrap,redux,git,vscode,github,postman,mongodb,sql" />
 </p>
 
 ---
@@ -25,11 +46,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-padikkal&theme=tokyonight&border_radius=10" alt="streak stats" />
 </p>
 
 ---
@@ -38,15 +55,17 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/adarsh-p" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="35" width="35" />
 </a>
 &nbsp;&nbsp;
+
 <a href="https://instagram.com/__adarsh__p_" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="30" width="30" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="35" width="35" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:adasrhkayanna2001@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
+
+<a href="mailto:adarshkayanna2001@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="35" width="35" />
 </a>
 </p>
 
@@ -54,13 +73,11 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 React Calculator App
-- 🔹 Supply Chain Dashboard
-- 🔹 Ocean & Air Freight Management UI
-- 🔹 Responsive Admin Panels
+#### 🔹 Nuts & Spices Management System
+Developed a responsive frontend application for managing products, inventory, and order workflows using React.js and Material-UI.
 
 ---
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/adarsh-padikkal">adarsh-padikkal</a>
-</p>
+<h3 align="center">
+⭐️ From <a href="https://github.com/adarsh-padikkal">adarsh-padikkal</a>
+</h3>
